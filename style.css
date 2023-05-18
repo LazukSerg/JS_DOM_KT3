@@ -1,0 +1,32 @@
+#slider {
+  width:400px;
+  height:15px;
+  background: white;
+  border-radius:5px;
+  border-color: black;
+  border: solid;
+  margin-top:80px;
+  margin-left:50px;
+}
+
+#item {
+  width:10px;
+  height:30px;
+  background: blue;
+  border-radius:5px;
+  border-top: 5px;
+  margin-top:0px;
+  margin-left:0px;
+  position: relative;
+}
+
+#result {
+  width:20px;
+  height:20px;
+  background: white;
+  border-radius:20px;
+  margin-top:-35px;
+  margin-left:-5px;
+  margin-bottom: 7px;
+  position: relative;
+}
